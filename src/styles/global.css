@@ -1,0 +1,31 @@
+@import "tailwindcss";
+@import "./node_modules/preline/variants.css";
+
+
+style{
+
+
+.work-experience {
+  padding: 2rem 1rem;
+  font-family: sans-serif;
+}
+
+.job {
+  margin-bottom: 2rem;
+  border-left: 3px solid #ccc;
+  padding-left: 1rem;
+}
+
+.job p {
+  margin: 0.2rem 0;
+  font-weight: 500;
+}
+
+.job ul {
+  margin-top: 0.5rem;
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+
+}
